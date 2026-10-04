@@ -9,3 +9,6 @@
 # Names should be added to this file as:
 # Name <email address>
 
+Rosalie Wagner <mail@rosaliewagner.com>
+Yash Avsarmal <yashavsarmal30@gmail.com>
+Bloom Borel Contributors

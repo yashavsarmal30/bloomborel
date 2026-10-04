@@ -1,9 +1,15 @@
 *~
 venv
+.venv
+*.py
+scripts/
+previews/
+output/
 build.stamp
 node_modules
 package-lock.json
 package.json
+BloomBorel.md
 master_ufo
 instance_ufos
 *.idlk

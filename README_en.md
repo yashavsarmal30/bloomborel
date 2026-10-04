@@ -1,6 +1,10 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C5TZAYG)
+# Bloom Borel — Documentation
 
-## Tutorials
+> For downloads, installation instructions, web usage, and font details for **Bloom Borel** (Regular and Italic), see the main [README.md](./README.md).
+
+---
+
+## Borel Background & Educational Research
 - [Download the fonts](./documentation/README_en.md#download-the-fonts)
 - [Install the fonts](./documentation/README_en.md#install-the-fonts)
 - [What to do if the letters appear disconnected](./documentation/README_en.md#activate-contextual-alternates)

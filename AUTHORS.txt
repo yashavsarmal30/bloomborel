@@ -6,3 +6,5 @@
 # Name or Organization <email address>
 
 Rosalie Wagner <mail@rosaliewagner.com>
+Yash Avsarmal
+Bloom Borel Authors (https://github.com/BloomBorel)
